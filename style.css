@@ -1,0 +1,13 @@
+button{
+    padding: 10px 18 px;
+    background-color:blue;
+    color: white; 
+    margin-right: 50px; 
+    border: none;
+    border-radius: 3px
+}
+
+.card {border: 1px lightgrey solid;
+padding: 10px;
+border-radius: 10px;
+margin-bottom: 10px}
